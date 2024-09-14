@@ -7,7 +7,7 @@ html, body {
 
 .titulo {
     text-align: center;
-    background-color: black;
+    font-weight: bold;
     color: white;
     padding: 20px;
     font-size: 25px;
